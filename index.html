@@ -25,7 +25,10 @@
             blocks[i].style.animationDelay = duration+'s';
         }
 
-        
+        const section = document.querySelector('section');
+        setTimeout(function(){
+            section.classList.add('active')
+        },14000) //add class active after 14seconds
     </script>
 </body>
 </html>
