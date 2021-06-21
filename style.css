@@ -55,7 +55,7 @@ section h2
     0%
     {
         transform: translateZ(2000px);
-        background:url(img/rsddwure.PNG);
+        background:url(img/i.jpg);
         background-position: center;
         background-attachment: fixed;
         background-size: cover;
@@ -64,7 +64,7 @@ section h2
     100%
     {
         transform: translateZ(0px);
-        background:url(img/rsddwure.PNG);
+        background:url(img/i.jpg);
         background-position: center;
         background-attachment: fixed;
         background-size: cover;
@@ -75,7 +75,7 @@ section h2
 section.active .banner .blocks
 {
     animation: animateTwo 2s ease-in-out forwards;
-    background:url(img/rsddwure.PNG);
+    background:url(img/i.jpg);
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
@@ -87,7 +87,7 @@ section.active .banner .blocks
     0%
     {
         transform: translateZ(0px);
-        background:url(img/rsddwure.PNG);
+        background:url(img/i.jpg);
         background-position: center;
         background-attachment: fixed;
         background-size: cover;
@@ -96,7 +96,7 @@ section.active .banner .blocks
     100%
     {
         transform: translateZ(2000px);
-        background:url(img/rsddwure.PNG);
+        background:url(img/i.jpg);
         background-position: center;
         background-attachment: fixed;
         background-size: cover;
